@@ -1,0 +1,22 @@
+{
+  "name": "mini-regex-engine",
+  "version": "1.0.0",
+  "description": "Mini Regex Engine",
+  "main": "mini-regex-engine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthaortiz/mini-regex-engine.git"
+  },
+  "author": "Samantha Ortiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samanthaortiz/mini-regex-engine/issues"
+  },
+  "homepage": "https://github.com/samanthaortiz/mini-regex-engine#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
